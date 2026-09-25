@@ -9,7 +9,7 @@ Entry-level QA Engineer with hands-on experience in **Manual, API, Mobile, and C
 ### 🧪 API Testing
 API testing using **Postman**, including test case design, request/response validation, negative testing, and defect reporting in Jira.
 
-**[View API Testing Project](YOUR_API_REPOSITORY_LINK)**
+**[View API Testing Project](https://github.com/adiltoncamposm-a11y/API-Testing-Kits-Deliveries)**
 
 ### 📱 Mobile Testing
 Manual testing of an Android food delivery application using **Android Studio**, Android Emulator, test case execution, and Jira defect reporting.
