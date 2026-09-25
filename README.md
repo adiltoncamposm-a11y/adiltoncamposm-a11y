@@ -24,7 +24,7 @@ Web application testing focused on requirements analysis, test case design, func
 ### 🤖 Python Automation
 Beginner automation projects using **Python, Selenium, and Pytest**.
 
-**[View Automation Project](YOUR_AUTOMATION_REPOSITORY_LINK)**
+**[View Automation Project](https://github.com/adiltoncamposm-a11y/QA-USA-Python_Automation)**
 
 ---
 
