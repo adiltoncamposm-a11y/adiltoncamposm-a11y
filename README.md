@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Adilton Campos 👋
 
-<!--
-**adiltoncamposm-a11y/adiltoncamposm-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-level QA Engineer with hands-on experience in **Manual, API, Mobile, and Cross-Browser Testing**.
 
-Here are some ideas to get you started:
+**Tools:** Postman · Jira · Selenium · Python · Chrome DevTools · Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## QA Projects
+
+### 🧪 API Testing
+API testing using **Postman**, including test case design, request/response validation, negative testing, and defect reporting in Jira.
+
+**[View API Testing Project](YOUR_API_REPOSITORY_LINK)**
+
+### 📱 Mobile Testing
+Manual testing of an Android food delivery application using **Android Studio**, Android Emulator, test case execution, and Jira defect reporting.
+
+**[View Mobile Testing Project](YOUR_MOBILE_REPOSITORY_LINK)**
+
+### 🌐 Web Testing – Urban Routes
+Web application testing focused on requirements analysis, test case design, functional testing, cross-browser testing, Chrome DevTools, and defect reporting.
+
+**[View Web Testing Project](YOUR_WEB_REPOSITORY_LINK)**
+
+### 🤖 Python Automation
+Beginner automation projects using **Python, Selenium, and Pytest**.
+
+**[View Automation Project](YOUR_AUTOMATION_REPOSITORY_LINK)**
+
+---
+
+📌 **See my pinned repositories below for my main QA projects and testing experience.**
