@@ -1,6 +1,6 @@
 # Hi, I'm Adilton Campos 👋
 
-Entry-level QA Engineer with hands-on experience in **Manual, API, Mobile, and Cross-Browser Testing**.
+ QA Engineer with hands-on experience in **Manual, API, Mobile, and Cross-Browser Testing**.
 
 **Tools:** Postman · Jira · Selenium · Python · Chrome DevTools · Android Studio
 
