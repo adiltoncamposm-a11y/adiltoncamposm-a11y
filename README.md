@@ -19,7 +19,7 @@ Manual testing of an Android food delivery application using **Android Studio**,
 ### 🌐 Web Testing – Urban Routes
 Web application testing focused on requirements analysis, test case design, functional testing, cross-browser testing, Chrome DevTools, and defect reporting.
 
-**[View Web Testing Project](YOUR_WEB_REPOSITORY_LINK)**
+**[View Web Testing Project](https://github.com/adiltoncamposm-a11y/Web-Testing-UrbanScooter)**
 
 ### 🤖 Python Automation
 Beginner automation projects using **Python, Selenium, and Pytest**.
