@@ -14,7 +14,7 @@ API testing using **Postman**, including test case design, request/response vali
 ### 📱 Mobile Testing
 Manual testing of an Android food delivery application using **Android Studio**, Android Emulator, test case execution, and Jira defect reporting.
 
-**[View Mobile Testing Project](YOUR_MOBILE_REPOSITORY_LINK)**
+**[View Mobile Testing Project](https://github.com/adiltoncamposm-a11y/Mobile-App-Testing-UrbanLunch)**
 
 ### 🌐 Web Testing – Urban Routes
 Web application testing focused on requirements analysis, test case design, functional testing, cross-browser testing, Chrome DevTools, and defect reporting.
