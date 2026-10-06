@@ -1,8 +1,8 @@
 # Hi, I'm Adilton Campos 👋
 
- QA Engineer with hands-on experience in **Manual, API, Mobile, and Cross-Browser Testing**.
+QA Engineer with hands-on experience in **Manual, API, Mobile, and Cross-Browser Testing**.
 
-**Tools:** Postman · Jira · Selenium · Python · Chrome DevTools · Android Studio
+**Tools:** Postman · Jira · Selenium · Python · Pytest · Chrome DevTools · Android Studio
 
 ## QA Projects
 
@@ -21,14 +21,16 @@ Web application testing focused on requirements analysis, test case design, func
 
 **[View Web Testing Project](https://github.com/adiltoncamposm-a11y/Web-Testing-UrbanScooter)**
 
-### 🤖 Python Automation
+### 🤖 Sprint 1 – QA Automation
+Beginner automation testing using **Python, Selenium, and Pytest**. Includes automated test cases, page locators, and test execution for the Urban Routes web application.
+
+**[View Sprint 1 Automation Project](https://github.com/adiltoncamposm-a11y/sprint-1-urban-routes-testing)**
+
+### 🐍 Python Automation
 Beginner automation projects using **Python, Selenium, and Pytest**.
 
 **[View Automation Project](https://github.com/adiltoncamposm-a11y/QA-USA-Python_Automation)**
-🤖 Sprint 2 – QA Automation
 
-Beginner automation testing using Python, Selenium, and Pytest. Includes automated test cases, page locators, and test execution for the Urban Routes web application.
-**[View Automation Project](https://github.com/adiltoncamposm-a11y/sprint-1-urban-routes-testing)**
 ---
 
 📌 **See my pinned repositories below for my main QA projects and testing experience.**
