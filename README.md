@@ -26,7 +26,7 @@ Beginner automation testing using **Python, Selenium, and Pytest**. Includes aut
 
 **[View Sprint 1 Automation Project](https://github.com/adiltoncamposm-a11y/sprint-1-urban-routes-testing)**
 
-### 🐍 Python Automation
+### 🐍 Spring 9 QA Automation
 Beginner automation projects using **Python, Selenium, and Pytest**.
 
 **[View Automation Project](https://github.com/adiltoncamposm-a11y/QA-USA-Python_Automation)**
